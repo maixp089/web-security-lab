@@ -1,29 +1,9 @@
 # web-security-lab
 
-## 目標
+Complete 30 PortSwigger Web Security Academy labs in 3 months.
 
-3か月で PortSwigger Web Security Academy のラボを30件完了し、Web セキュリティの理解を深める。
+**Progress: 1/30**
 
-## 進捗
+## Completed labs
 
-**1/30** 完了
-
-- [パストラバーサル — 基本ケース](labs/path-traversal-simple-case.md)（2026-11-14 完了）
-
-## 学習ノート
-
-演習を完了した後にのみ、`labs/` に学習ノートを作成する。未完了の演習について空のノートは作成しない。
-リポジトリ名とファイル名は英語にし、README と学習ノートは日本語で記述する。
-ノートのファイル名はラボの内容が分かる英語名とし、拡張子は `.md` とする。
-
-各ノートには、次の5つの見出しを含める。
-
-```markdown
-## 1. 脆弱性の概要
-## 2. 根本原因
-## 3. 攻撃の仕組み
-## 4. 防御方法
-## 5. 学んだこと
-```
-
-演習を完了したら、ノートを記録して進捗の完了数を更新する。
+- [Path Traversal — Simple Case](labs/path-traversal-simple-case.md) — 2026-11-14
